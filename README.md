@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm vishal target="_blank"> Rahul Kanjariya </a></h1>
+<h1 align="center">👋 Hi, I'm vishal </h1>
 
 ### Course Name : Web Development using PHP
 
