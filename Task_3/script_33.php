@@ -4,9 +4,9 @@ array_key_exists() function. -->
 <?php
 
 $person = array(
-    "name" => "Ravi",
-    "age" => 20,
-    "city" => "jamnagar",
+    "name" => "vishal",
+    "age" => 21,
+    "city" => "rajkot",
     "country" => "india"
 );
 
