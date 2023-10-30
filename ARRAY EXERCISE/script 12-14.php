@@ -6,9 +6,9 @@
 
     // Create an associative array with person's details
     $profile = [
-        "name" => "Milan",
+        "name" => "Vishal",
         "age" => 21,
-        "email" => "milanbhalodiya410@gmail.com",
+        "email" => "mvishal287@gmail.com",
     ];
     // print orignal array
     print_r($profile);
